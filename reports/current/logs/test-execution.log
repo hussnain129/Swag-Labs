@@ -1,18 +1,18 @@
-{"context":"CommonUtils","level":"info","message":"STEP: Navigating to: https://www.saucedemo.com/","timestamp":"2025-08-25 16:28:00"}
-{"context":"CommonUtils","level":"info","message":"STEP: Navigating to: https://www.saucedemo.com/","timestamp":"2025-08-25 16:28:01"}
-{"context":"CommonUtils","level":"info","message":"STEP: Navigating to: https://www.saucedemo.com/","timestamp":"2025-08-25 16:28:01"}
-{"context":"CommonUtils","level":"info","message":"STEP: Waiting for page to load","timestamp":"2025-08-25 16:28:02"}
-{"context":"CommonUtils","level":"info","message":"STEP: Waiting for page to load","timestamp":"2025-08-25 16:28:02"}
-{"context":"CommonUtils","level":"info","message":"STEP: Waiting for page to load","timestamp":"2025-08-25 16:28:03"}
-{"context":"CommonUtils","level":"info","message":"STEP: Navigating to: https://www.saucedemo.com/","timestamp":"2025-08-25 16:28:03"}
-{"context":"CommonUtils","level":"info","message":"STEP: Waiting for page to load","timestamp":"2025-08-25 16:28:06"}
-{"context":"CommonUtils","level":"info","message":"STEP: Navigating to: https://www.saucedemo.com/","timestamp":"2025-08-25 16:28:16"}
-{"context":"CommonUtils","level":"info","message":"STEP: Navigating to: https://www.saucedemo.com/","timestamp":"2025-08-25 16:28:16"}
-{"context":"CommonUtils","level":"info","message":"STEP: Navigating to: https://www.saucedemo.com/","timestamp":"2025-08-25 16:28:17"}
-{"context":"CommonUtils","level":"info","message":"STEP: Waiting for page to load","timestamp":"2025-08-25 16:28:17"}
-{"context":"CommonUtils","level":"info","message":"STEP: Waiting for page to load","timestamp":"2025-08-25 16:28:18"}
-{"context":"CommonUtils","level":"info","message":"STEP: Waiting for page to load","timestamp":"2025-08-25 16:28:18"}
-{"context":"GlobalTeardown","level":"info","message":"Starting global teardown...","timestamp":"2025-08-25 16:28:24"}
-{"context":"ReportManager","level":"info","message":"Generated test summary report","timestamp":"2025-08-25 16:28:26"}
-{"archivedReports":5,"context":"GlobalTeardown","currentReports":2,"lastArchiveDate":"test-run-2025-08-25T11-27-54-880Z","level":"info","message":"Report statistics:","timestamp":"2025-08-25 16:28:26","totalArchives":6}
-{"context":"GlobalTeardown","level":"info","message":"Global teardown completed successfully","timestamp":"2025-08-25 16:28:26"}
+{"context":"CommonUtils","level":"info","message":"STEP: Navigating to: https://www.saucedemo.com/","timestamp":"2025-08-25 16:39:58"}
+{"context":"CommonUtils","level":"info","message":"STEP: Waiting for page to load","timestamp":"2025-08-25 16:40:00"}
+{"context":"CommonUtils","level":"info","message":"STEP: Navigating to: https://www.saucedemo.com/","timestamp":"2025-08-25 16:40:00"}
+{"context":"CommonUtils","level":"info","message":"STEP: Navigating to: https://www.saucedemo.com/","timestamp":"2025-08-25 16:40:00"}
+{"context":"CommonUtils","level":"info","message":"STEP: Waiting for page to load","timestamp":"2025-08-25 16:40:01"}
+{"context":"CommonUtils","level":"info","message":"STEP: Waiting for page to load","timestamp":"2025-08-25 16:40:01"}
+{"context":"CommonUtils","level":"info","message":"STEP: Navigating to: https://www.saucedemo.com/","timestamp":"2025-08-25 16:40:02"}
+{"context":"CommonUtils","level":"info","message":"STEP: Waiting for page to load","timestamp":"2025-08-25 16:40:05"}
+{"context":"CommonUtils","level":"info","message":"STEP: Navigating to: https://www.saucedemo.com/","timestamp":"2025-08-25 16:40:16"}
+{"context":"CommonUtils","level":"info","message":"STEP: Navigating to: https://www.saucedemo.com/","timestamp":"2025-08-25 16:40:16"}
+{"context":"CommonUtils","level":"info","message":"STEP: Navigating to: https://www.saucedemo.com/","timestamp":"2025-08-25 16:40:16"}
+{"context":"CommonUtils","level":"info","message":"STEP: Waiting for page to load","timestamp":"2025-08-25 16:40:17"}
+{"context":"CommonUtils","level":"info","message":"STEP: Waiting for page to load","timestamp":"2025-08-25 16:40:17"}
+{"context":"CommonUtils","level":"info","message":"STEP: Waiting for page to load","timestamp":"2025-08-25 16:40:17"}
+{"context":"GlobalTeardown","level":"info","message":"Starting global teardown...","timestamp":"2025-08-25 16:40:23"}
+{"context":"ReportManager","level":"info","message":"Generated test summary report","timestamp":"2025-08-25 16:40:25"}
+{"archivedReports":5,"context":"GlobalTeardown","currentReports":2,"lastArchiveDate":"test-run-2025-08-25T11-39-53-581Z","level":"info","message":"Report statistics:","timestamp":"2025-08-25 16:40:25","totalArchives":7}
+{"context":"GlobalTeardown","level":"info","message":"Global teardown completed successfully","timestamp":"2025-08-25 16:40:25"}

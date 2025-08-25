@@ -1,63 +1,63 @@
-<testsuites id="" name="" tests="7" failures="0" skipped="0" errors="0" time="31.754286">
-<testsuite name="logout.spec.ts" timestamp="2025-08-25T11:27:56.563Z" hostname="chromium" tests="1" failures="0" skipped="0" time="7.864" errors="0">
-<testcase name="SauceDemo Logout › should logout and redirect to login page" classname="logout.spec.ts" time="7.864">
+<testsuites id="" name="" tests="7" failures="0" skipped="0" errors="0" time="31.992079">
+<testsuite name="logout.spec.ts" timestamp="2025-08-25T11:39:55.300Z" hostname="chromium" tests="1" failures="0" skipped="0" time="10.46" errors="0">
+<testcase name="SauceDemo Logout › should logout and redirect to login page" classname="logout.spec.ts" time="10.46">
 <system-out>
-<![CDATA[16:28:01 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-16:28:03 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[16:40:00 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+16:40:01 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
 </testsuite>
-<testsuite name="logout.spec.ts" timestamp="2025-08-25T11:27:56.563Z" hostname="firefox" tests="1" failures="0" skipped="0" time="9.714" errors="0">
-<testcase name="SauceDemo Logout › should logout and redirect to login page" classname="logout.spec.ts" time="9.714">
+<testsuite name="logout.spec.ts" timestamp="2025-08-25T11:39:55.300Z" hostname="firefox" tests="1" failures="0" skipped="0" time="10.745" errors="0">
+<testcase name="SauceDemo Logout › should logout and redirect to login page" classname="logout.spec.ts" time="10.745">
 <system-out>
-<![CDATA[16:28:03 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-16:28:06 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[16:40:02 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+16:40:05 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
 </testsuite>
-<testsuite name="logout.spec.ts" timestamp="2025-08-25T11:27:56.563Z" hostname="webkit" tests="1" failures="0" skipped="0" time="11.057" errors="0">
-<testcase name="SauceDemo Logout › should logout and redirect to login page" classname="logout.spec.ts" time="11.057">
+<testsuite name="logout.spec.ts" timestamp="2025-08-25T11:39:55.300Z" hostname="webkit" tests="1" failures="0" skipped="0" time="11.533" errors="0">
+<testcase name="SauceDemo Logout › should logout and redirect to login page" classname="logout.spec.ts" time="11.533">
 <system-out>
-<![CDATA[16:28:00 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-16:28:02 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[16:39:58 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+16:40:00 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
 </testsuite>
-<testsuite name="logout.spec.ts" timestamp="2025-08-25T11:27:56.563Z" hostname="Mobile Chrome" tests="1" failures="0" skipped="0" time="7.666" errors="0">
-<testcase name="SauceDemo Logout › should logout and redirect to login page" classname="logout.spec.ts" time="7.666">
+<testsuite name="logout.spec.ts" timestamp="2025-08-25T11:39:55.300Z" hostname="Mobile Chrome" tests="1" failures="0" skipped="0" time="9.142" errors="0">
+<testcase name="SauceDemo Logout › should logout and redirect to login page" classname="logout.spec.ts" time="9.142">
 <system-out>
-<![CDATA[16:28:01 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-16:28:02 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[16:40:00 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+16:40:01 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
 </testsuite>
-<testsuite name="logout.spec.ts" timestamp="2025-08-25T11:27:56.563Z" hostname="Mobile Safari" tests="1" failures="0" skipped="0" time="11.014" errors="0">
-<testcase name="SauceDemo Logout › should logout and redirect to login page" classname="logout.spec.ts" time="11.014">
+<testsuite name="logout.spec.ts" timestamp="2025-08-25T11:39:55.300Z" hostname="Mobile Safari" tests="1" failures="0" skipped="0" time="10.138" errors="0">
+<testcase name="SauceDemo Logout › should logout and redirect to login page" classname="logout.spec.ts" time="10.138">
 <system-out>
-<![CDATA[16:28:16 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-16:28:18 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[16:40:16 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+16:40:17 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
 </testsuite>
-<testsuite name="logout.spec.ts" timestamp="2025-08-25T11:27:56.563Z" hostname="Microsoft Edge" tests="1" failures="0" skipped="0" time="8.009" errors="0">
-<testcase name="SauceDemo Logout › should logout and redirect to login page" classname="logout.spec.ts" time="8.009">
+<testsuite name="logout.spec.ts" timestamp="2025-08-25T11:39:55.300Z" hostname="Microsoft Edge" tests="1" failures="0" skipped="0" time="7.177" errors="0">
+<testcase name="SauceDemo Logout › should logout and redirect to login page" classname="logout.spec.ts" time="7.177">
 <system-out>
-<![CDATA[16:28:17 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-16:28:18 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[16:40:16 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+16:40:17 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
 </testsuite>
-<testsuite name="logout.spec.ts" timestamp="2025-08-25T11:27:56.563Z" hostname="Google Chrome" tests="1" failures="0" skipped="0" time="6.176" errors="0">
-<testcase name="SauceDemo Logout › should logout and redirect to login page" classname="logout.spec.ts" time="6.176">
+<testsuite name="logout.spec.ts" timestamp="2025-08-25T11:39:55.300Z" hostname="Google Chrome" tests="1" failures="0" skipped="0" time="7.206" errors="0">
+<testcase name="SauceDemo Logout › should logout and redirect to login page" classname="logout.spec.ts" time="7.206">
 <system-out>
-<![CDATA[16:28:16 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-16:28:17 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[16:40:16 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+16:40:17 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
