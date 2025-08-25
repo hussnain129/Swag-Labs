@@ -194,19 +194,19 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 6255,
+                      "duration": 7115,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "16:19:49 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:37:26 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "16:19:50 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:37:27 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-22T11:19:45.002Z",
+                      "startTime": "2025-08-25T10:37:22.778Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -235,19 +235,19 @@
                       "workerIndex": 1,
                       "parallelIndex": 1,
                       "status": "passed",
-                      "duration": 6579,
+                      "duration": 6780,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "16:19:50 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:37:26 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "16:19:51 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:37:27 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-22T11:19:45.040Z",
+                      "startTime": "2025-08-25T10:37:22.872Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -276,19 +276,19 @@
                       "workerIndex": 2,
                       "parallelIndex": 2,
                       "status": "passed",
-                      "duration": 9623,
+                      "duration": 10545,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "16:19:53 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:37:31 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "16:19:56 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:37:34 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-22T11:19:45.000Z",
+                      "startTime": "2025-08-25T10:37:22.802Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -317,19 +317,19 @@
                       "workerIndex": 3,
                       "parallelIndex": 3,
                       "status": "passed",
-                      "duration": 11961,
+                      "duration": 12619,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "16:19:52 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:37:29 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "16:19:56 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:37:34 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-22T11:19:45.035Z",
+                      "startTime": "2025-08-25T10:37:22.898Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -355,22 +355,22 @@
                   "projectName": "webkit",
                   "results": [
                     {
-                      "workerIndex": 4,
-                      "parallelIndex": 0,
+                      "workerIndex": 5,
+                      "parallelIndex": 1,
                       "status": "passed",
-                      "duration": 10873,
+                      "duration": 8485,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "16:20:05 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:37:39 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "16:20:06 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:37:41 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-22T11:20:00.570Z",
+                      "startTime": "2025-08-25T10:37:37.036Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -396,22 +396,22 @@
                   "projectName": "webkit",
                   "results": [
                     {
-                      "workerIndex": 5,
-                      "parallelIndex": 1,
+                      "workerIndex": 4,
+                      "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 11208,
+                      "duration": 8452,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "16:20:05 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:37:39 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "16:20:07 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:37:40 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-22T11:20:00.563Z",
+                      "startTime": "2025-08-25T10:37:36.952Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -440,19 +440,19 @@
                       "workerIndex": 6,
                       "parallelIndex": 2,
                       "status": "passed",
-                      "duration": 7081,
+                      "duration": 7225,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "16:20:08 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:37:46 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "16:20:09 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:37:47 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-22T11:20:03.496Z",
+                      "startTime": "2025-08-25T10:37:42.189Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -481,19 +481,19 @@
                       "workerIndex": 7,
                       "parallelIndex": 3,
                       "status": "passed",
-                      "duration": 7355,
+                      "duration": 7567,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "16:20:08 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:37:46 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "16:20:09 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:37:48 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-22T11:20:03.842Z",
+                      "startTime": "2025-08-25T10:37:42.329Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -519,22 +519,22 @@
                   "projectName": "Mobile Safari",
                   "results": [
                     {
-                      "workerIndex": 10,
-                      "parallelIndex": 2,
+                      "workerIndex": 8,
+                      "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 10676,
+                      "duration": 9890,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "16:20:20 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:37:52 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "16:20:22 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:37:53 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-22T11:20:15.858Z",
+                      "startTime": "2025-08-25T10:37:48.906Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -560,22 +560,22 @@
                   "projectName": "Mobile Safari",
                   "results": [
                     {
-                      "workerIndex": 8,
-                      "parallelIndex": 0,
+                      "workerIndex": 9,
+                      "parallelIndex": 1,
                       "status": "passed",
-                      "duration": 10447,
+                      "duration": 9681,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "16:20:20 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:37:52 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "16:20:21 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:37:53 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-22T11:20:15.351Z",
+                      "startTime": "2025-08-25T10:37:48.937Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -601,22 +601,22 @@
                   "projectName": "Microsoft Edge",
                   "results": [
                     {
-                      "workerIndex": 11,
-                      "parallelIndex": 3,
+                      "workerIndex": 10,
+                      "parallelIndex": 2,
                       "status": "passed",
-                      "duration": 7018,
+                      "duration": 5545,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "16:20:20 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:37:56 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "16:20:21 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:37:58 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-22T11:20:15.874Z",
+                      "startTime": "2025-08-25T10:37:54.651Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -642,22 +642,22 @@
                   "projectName": "Microsoft Edge",
                   "results": [
                     {
-                      "workerIndex": 9,
-                      "parallelIndex": 1,
+                      "workerIndex": 11,
+                      "parallelIndex": 3,
                       "status": "passed",
-                      "duration": 7878,
+                      "duration": 5680,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "16:20:20 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:37:58 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "16:20:21 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:37:59 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-22T11:20:15.371Z",
+                      "startTime": "2025-08-25T10:37:54.648Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -683,22 +683,22 @@
                   "projectName": "Google Chrome",
                   "results": [
                     {
-                      "workerIndex": 13,
+                      "workerIndex": 12,
                       "parallelIndex": 1,
                       "status": "passed",
-                      "duration": 4600,
+                      "duration": 5756,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "16:20:30 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:38:05 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "16:20:31 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:38:06 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-22T11:20:27.823Z",
+                      "startTime": "2025-08-25T10:38:02.638Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -724,22 +724,22 @@
                   "projectName": "Google Chrome",
                   "results": [
                     {
-                      "workerIndex": 12,
-                      "parallelIndex": 3,
+                      "workerIndex": 13,
+                      "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 4246,
+                      "duration": 5653,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "16:20:29 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:38:05 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "16:20:30 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:38:06 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-22T11:20:27.806Z",
+                      "startTime": "2025-08-25T10:38:02.658Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -757,15 +757,10 @@
       ]
     }
   ],
-  "errors": [
-    {
-      "message": "Error: config\\global-teardown.ts: file must export a single function.",
-      "stack": "Error: config\\global-teardown.ts: file must export a single function."
-    }
-  ],
+  "errors": [],
   "stats": {
-    "startTime": "2025-08-22T11:19:38.925Z",
-    "duration": 55408.996,
+    "startTime": "2025-08-25T10:37:19.658Z",
+    "duration": 52990.649000000005,
     "expected": 14,
     "skipped": 0,
     "unexpected": 0,
