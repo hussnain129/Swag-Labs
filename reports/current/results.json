@@ -166,20 +166,20 @@
   },
   "suites": [
     {
-      "title": "login.spec.ts",
-      "file": "login.spec.ts",
+      "title": "logout.spec.ts",
+      "file": "logout.spec.ts",
       "column": 0,
       "line": 0,
       "specs": [],
       "suites": [
         {
-          "title": "SauceDemo Login E2E",
-          "file": "login.spec.ts",
-          "line": 8,
+          "title": "SauceDemo Logout",
+          "file": "logout.spec.ts",
+          "line": 9,
           "column": 6,
           "specs": [
             {
-              "title": "should login successfully with standard user",
+              "title": "should logout and redirect to login page",
               "ok": true,
               "tags": [],
               "tests": [
@@ -194,19 +194,19 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 7951,
+                      "duration": 7864,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "15:45:33 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "16:28:01 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "15:45:34 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "16:28:03 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-25T10:45:28.601Z",
+                      "startTime": "2025-08-25T11:27:57.966Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -214,13 +214,13 @@
                   "status": "expected"
                 }
               ],
-              "id": "41d3fd2474a19feb00a1-46e3359e5f847af0018c",
-              "file": "login.spec.ts",
-              "line": 9,
+              "id": "01b3c3c82abdc8a715b2-f360f435cf442bdea37f",
+              "file": "logout.spec.ts",
+              "line": 10,
               "column": 7
             },
             {
-              "title": "should show error for locked out user",
+              "title": "should logout and redirect to login page",
               "ok": true,
               "tags": [],
               "tests": [
@@ -228,26 +228,26 @@
                   "timeout": 60000,
                   "annotations": [],
                   "expectedStatus": "passed",
-                  "projectId": "chromium",
-                  "projectName": "chromium",
+                  "projectId": "firefox",
+                  "projectName": "firefox",
                   "results": [
                     {
                       "workerIndex": 1,
                       "parallelIndex": 1,
                       "status": "passed",
-                      "duration": 8665,
+                      "duration": 9714,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "15:45:34 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "16:28:03 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "15:45:35 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "16:28:06 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-25T10:45:28.555Z",
+                      "startTime": "2025-08-25T11:27:58.061Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -255,13 +255,13 @@
                   "status": "expected"
                 }
               ],
-              "id": "41d3fd2474a19feb00a1-94cf12471b03154c645d",
-              "file": "login.spec.ts",
-              "line": 18,
+              "id": "01b3c3c82abdc8a715b2-4b2264e564ad4cde7462",
+              "file": "logout.spec.ts",
+              "line": 10,
               "column": 7
             },
             {
-              "title": "should login successfully with standard user",
+              "title": "should logout and redirect to login page",
               "ok": true,
               "tags": [],
               "tests": [
@@ -269,26 +269,26 @@
                   "timeout": 60000,
                   "annotations": [],
                   "expectedStatus": "passed",
-                  "projectId": "firefox",
-                  "projectName": "firefox",
+                  "projectId": "webkit",
+                  "projectName": "webkit",
                   "results": [
                     {
                       "workerIndex": 2,
                       "parallelIndex": 2,
                       "status": "passed",
-                      "duration": 11401,
+                      "duration": 11057,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "15:45:40 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "16:28:00 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "15:45:42 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "16:28:02 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-25T10:45:28.605Z",
+                      "startTime": "2025-08-25T11:27:57.972Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -296,13 +296,13 @@
                   "status": "expected"
                 }
               ],
-              "id": "41d3fd2474a19feb00a1-01a11d93818d4996bc2d",
-              "file": "login.spec.ts",
-              "line": 9,
+              "id": "01b3c3c82abdc8a715b2-c9e81707e8502498ed30",
+              "file": "logout.spec.ts",
+              "line": 10,
               "column": 7
             },
             {
-              "title": "should show error for locked out user",
+              "title": "should logout and redirect to login page",
               "ok": true,
               "tags": [],
               "tests": [
@@ -310,190 +310,26 @@
                   "timeout": 60000,
                   "annotations": [],
                   "expectedStatus": "passed",
-                  "projectId": "firefox",
-                  "projectName": "firefox",
+                  "projectId": "Mobile Chrome",
+                  "projectName": "Mobile Chrome",
                   "results": [
                     {
                       "workerIndex": 3,
-                      "parallelIndex": 3,
-                      "status": "passed",
-                      "duration": 14754,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "15:45:37 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "15:45:41 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T10:45:28.614Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "41d3fd2474a19feb00a1-48d98de966e428c50180",
-              "file": "login.spec.ts",
-              "line": 18,
-              "column": 7
-            },
-            {
-              "title": "should login successfully with standard user",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "webkit",
-                  "projectName": "webkit",
-                  "results": [
-                    {
-                      "workerIndex": 4,
-                      "parallelIndex": 0,
-                      "status": "passed",
-                      "duration": 8048,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "15:45:48 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "15:45:49 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T10:45:45.937Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "41d3fd2474a19feb00a1-c5acc618589d00075285",
-              "file": "login.spec.ts",
-              "line": 9,
-              "column": 7
-            },
-            {
-              "title": "should show error for locked out user",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "webkit",
-                  "projectName": "webkit",
-                  "results": [
-                    {
-                      "workerIndex": 5,
-                      "parallelIndex": 1,
-                      "status": "passed",
-                      "duration": 8276,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "15:45:48 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "15:45:49 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T10:45:46.232Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "41d3fd2474a19feb00a1-3bc0906636f98c70d89b",
-              "file": "login.spec.ts",
-              "line": 18,
-              "column": 7
-            },
-            {
-              "title": "should login successfully with standard user",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "Mobile Chrome",
-                  "projectName": "Mobile Chrome",
-                  "results": [
-                    {
-                      "workerIndex": 6,
-                      "parallelIndex": 2,
-                      "status": "passed",
-                      "duration": 6957,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "15:45:54 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "15:45:55 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T10:45:50.492Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "41d3fd2474a19feb00a1-543157ad7fba3f7fca92",
-              "file": "login.spec.ts",
-              "line": 9,
-              "column": 7
-            },
-            {
-              "title": "should show error for locked out user",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "Mobile Chrome",
-                  "projectName": "Mobile Chrome",
-                  "results": [
-                    {
-                      "workerIndex": 7,
                       "parallelIndex": 3,
                       "status": "passed",
                       "duration": 7666,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "15:45:55 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "16:28:01 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "15:45:56 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "16:28:02 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-25T10:45:50.502Z",
+                      "startTime": "2025-08-25T11:27:57.913Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -501,13 +337,13 @@
                   "status": "expected"
                 }
               ],
-              "id": "41d3fd2474a19feb00a1-13ca825e9849e408a085",
-              "file": "login.spec.ts",
-              "line": 18,
+              "id": "01b3c3c82abdc8a715b2-3b2f4f27c2b804716bde",
+              "file": "logout.spec.ts",
+              "line": 10,
               "column": 7
             },
             {
-              "title": "should login successfully with standard user",
+              "title": "should logout and redirect to login page",
               "ok": true,
               "tags": [],
               "tests": [
@@ -519,145 +355,22 @@
                   "projectName": "Mobile Safari",
                   "results": [
                     {
-                      "workerIndex": 8,
-                      "parallelIndex": 0,
-                      "status": "passed",
-                      "duration": 9510,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "15:46:00 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "15:46:02 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T10:45:58.032Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "41d3fd2474a19feb00a1-47e8e9469ad47fd1c58a",
-              "file": "login.spec.ts",
-              "line": 9,
-              "column": 7
-            },
-            {
-              "title": "should show error for locked out user",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "Mobile Safari",
-                  "projectName": "Mobile Safari",
-                  "results": [
-                    {
-                      "workerIndex": 9,
-                      "parallelIndex": 1,
-                      "status": "passed",
-                      "duration": 8951,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "15:46:01 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "15:46:02 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T10:45:58.166Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "41d3fd2474a19feb00a1-c02dd358e00ae5ea18e9",
-              "file": "login.spec.ts",
-              "line": 18,
-              "column": 7
-            },
-            {
-              "title": "should login successfully with standard user",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "Microsoft Edge",
-                  "projectName": "Microsoft Edge",
-                  "results": [
-                    {
-                      "workerIndex": 10,
-                      "parallelIndex": 2,
-                      "status": "passed",
-                      "duration": 7073,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "15:46:07 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "15:46:08 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T10:46:03.440Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "41d3fd2474a19feb00a1-b1a65af1d2523d704302",
-              "file": "login.spec.ts",
-              "line": 9,
-              "column": 7
-            },
-            {
-              "title": "should show error for locked out user",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "Microsoft Edge",
-                  "projectName": "Microsoft Edge",
-                  "results": [
-                    {
-                      "workerIndex": 11,
+                      "workerIndex": 5,
                       "parallelIndex": 3,
                       "status": "passed",
-                      "duration": 6295,
+                      "duration": 11014,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "15:46:07 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "16:28:16 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "15:46:08 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "16:28:18 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-25T10:46:03.760Z",
+                      "startTime": "2025-08-25T11:28:13.025Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -665,13 +378,13 @@
                   "status": "expected"
                 }
               ],
-              "id": "41d3fd2474a19feb00a1-51c5b4208413ccf52bd5",
-              "file": "login.spec.ts",
-              "line": 18,
+              "id": "01b3c3c82abdc8a715b2-7e813cc6a4616b12d817",
+              "file": "logout.spec.ts",
+              "line": 10,
               "column": 7
             },
             {
-              "title": "should login successfully with standard user",
+              "title": "should logout and redirect to login page",
               "ok": true,
               "tags": [],
               "tests": [
@@ -679,67 +392,26 @@
                   "timeout": 60000,
                   "annotations": [],
                   "expectedStatus": "passed",
-                  "projectId": "Google Chrome",
-                  "projectName": "Google Chrome",
+                  "projectId": "Microsoft Edge",
+                  "projectName": "Microsoft Edge",
                   "results": [
                     {
-                      "workerIndex": 12,
-                      "parallelIndex": 1,
-                      "status": "passed",
-                      "duration": 5455,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "15:46:15 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "15:46:16 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T10:46:12.174Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "41d3fd2474a19feb00a1-538c99c8885b251cac68",
-              "file": "login.spec.ts",
-              "line": 9,
-              "column": 7
-            },
-            {
-              "title": "should show error for locked out user",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "Google Chrome",
-                  "projectName": "Google Chrome",
-                  "results": [
-                    {
-                      "workerIndex": 13,
+                      "workerIndex": 4,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 4943,
+                      "duration": 8009,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "15:46:15 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "16:28:17 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "15:46:16 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "16:28:18 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-25T10:46:12.175Z",
+                      "startTime": "2025-08-25T11:28:13.010Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -747,9 +419,50 @@
                   "status": "expected"
                 }
               ],
-              "id": "41d3fd2474a19feb00a1-3f44ce4598cdc8616bc1",
-              "file": "login.spec.ts",
-              "line": 18,
+              "id": "01b3c3c82abdc8a715b2-9a50b1264442b5189fb3",
+              "file": "logout.spec.ts",
+              "line": 10,
+              "column": 7
+            },
+            {
+              "title": "should logout and redirect to login page",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 60000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "Google Chrome",
+                  "projectName": "Google Chrome",
+                  "results": [
+                    {
+                      "workerIndex": 6,
+                      "parallelIndex": 2,
+                      "status": "passed",
+                      "duration": 6176,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "16:28:16 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                        },
+                        {
+                          "text": "16:28:17 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2025-08-25T11:28:13.144Z",
+                      "annotations": [],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "01b3c3c82abdc8a715b2-dfdeb7adcb8cc352de4a",
+              "file": "logout.spec.ts",
+              "line": 10,
               "column": 7
             }
           ]
@@ -759,9 +472,9 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-08-25T10:45:25.156Z",
-    "duration": 57078.547,
-    "expected": 14,
+    "startTime": "2025-08-25T11:27:54.773Z",
+    "duration": 31754.286,
+    "expected": 7,
     "skipped": 0,
     "unexpected": 0,
     "flaky": 0

@@ -69,6 +69,7 @@
   "author": "Test Automation Developer",
   "license": "MIT",
   "devDependencies": {
+    "@faker-js/faker": "^10.0.0",
     "@playwright/test": "^1.40.0",
     "@types/node": "^20.10.0",
     "eslint": "^8.55.0",
@@ -96,4 +97,4 @@
     "url": "https://github.com/your-username/playwright-testng-framework/issues"
   },
   "homepage": "https://github.com/your-username/playwright-testng-framework#readme"
-} 
+}
