@@ -1,112 +1,112 @@
-<testsuites id="" name="" tests="14" failures="0" skipped="0" errors="0" time="52.990649000000005">
-<testsuite name="login.spec.ts" timestamp="2025-08-25T10:37:21.445Z" hostname="chromium" tests="2" failures="0" skipped="0" time="13.895" errors="0">
-<testcase name="SauceDemo Login E2E › should login successfully with standard user" classname="login.spec.ts" time="7.115">
+<testsuites id="" name="" tests="14" failures="0" skipped="0" errors="0" time="57.078547">
+<testsuite name="login.spec.ts" timestamp="2025-08-25T10:45:26.964Z" hostname="chromium" tests="2" failures="0" skipped="0" time="16.616" errors="0">
+<testcase name="SauceDemo Login E2E › should login successfully with standard user" classname="login.spec.ts" time="7.951">
 <system-out>
-<![CDATA[15:37:26 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-15:37:27 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[15:45:33 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:45:34 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
-<testcase name="SauceDemo Login E2E › should show error for locked out user" classname="login.spec.ts" time="6.78">
+<testcase name="SauceDemo Login E2E › should show error for locked out user" classname="login.spec.ts" time="8.665">
 <system-out>
-<![CDATA[15:37:26 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-15:37:27 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-</testsuite>
-<testsuite name="login.spec.ts" timestamp="2025-08-25T10:37:21.445Z" hostname="firefox" tests="2" failures="0" skipped="0" time="23.164" errors="0">
-<testcase name="SauceDemo Login E2E › should login successfully with standard user" classname="login.spec.ts" time="10.545">
-<system-out>
-<![CDATA[15:37:31 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-15:37:34 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-<testcase name="SauceDemo Login E2E › should show error for locked out user" classname="login.spec.ts" time="12.619">
-<system-out>
-<![CDATA[15:37:29 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-15:37:34 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[15:45:34 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:45:35 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
 </testsuite>
-<testsuite name="login.spec.ts" timestamp="2025-08-25T10:37:21.445Z" hostname="webkit" tests="2" failures="0" skipped="0" time="16.937" errors="0">
-<testcase name="SauceDemo Login E2E › should login successfully with standard user" classname="login.spec.ts" time="8.485">
+<testsuite name="login.spec.ts" timestamp="2025-08-25T10:45:26.964Z" hostname="firefox" tests="2" failures="0" skipped="0" time="26.155" errors="0">
+<testcase name="SauceDemo Login E2E › should login successfully with standard user" classname="login.spec.ts" time="11.401">
 <system-out>
-<![CDATA[15:37:39 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-15:37:41 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[15:45:40 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:45:42 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
-<testcase name="SauceDemo Login E2E › should show error for locked out user" classname="login.spec.ts" time="8.452">
+<testcase name="SauceDemo Login E2E › should show error for locked out user" classname="login.spec.ts" time="14.754">
 <system-out>
-<![CDATA[15:37:39 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-15:37:40 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-</testsuite>
-<testsuite name="login.spec.ts" timestamp="2025-08-25T10:37:21.445Z" hostname="Mobile Chrome" tests="2" failures="0" skipped="0" time="14.792" errors="0">
-<testcase name="SauceDemo Login E2E › should login successfully with standard user" classname="login.spec.ts" time="7.225">
-<system-out>
-<![CDATA[15:37:46 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-15:37:47 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-<testcase name="SauceDemo Login E2E › should show error for locked out user" classname="login.spec.ts" time="7.567">
-<system-out>
-<![CDATA[15:37:46 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-15:37:48 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[15:45:37 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:45:41 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
 </testsuite>
-<testsuite name="login.spec.ts" timestamp="2025-08-25T10:37:21.445Z" hostname="Mobile Safari" tests="2" failures="0" skipped="0" time="19.571" errors="0">
-<testcase name="SauceDemo Login E2E › should login successfully with standard user" classname="login.spec.ts" time="9.89">
+<testsuite name="login.spec.ts" timestamp="2025-08-25T10:45:26.964Z" hostname="webkit" tests="2" failures="0" skipped="0" time="16.324" errors="0">
+<testcase name="SauceDemo Login E2E › should login successfully with standard user" classname="login.spec.ts" time="8.048">
 <system-out>
-<![CDATA[15:37:52 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-15:37:53 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[15:45:48 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:45:49 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
-<testcase name="SauceDemo Login E2E › should show error for locked out user" classname="login.spec.ts" time="9.681">
+<testcase name="SauceDemo Login E2E › should show error for locked out user" classname="login.spec.ts" time="8.276">
 <system-out>
-<![CDATA[15:37:52 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-15:37:53 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-</testsuite>
-<testsuite name="login.spec.ts" timestamp="2025-08-25T10:37:21.445Z" hostname="Microsoft Edge" tests="2" failures="0" skipped="0" time="11.225" errors="0">
-<testcase name="SauceDemo Login E2E › should login successfully with standard user" classname="login.spec.ts" time="5.545">
-<system-out>
-<![CDATA[15:37:56 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-15:37:58 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-<testcase name="SauceDemo Login E2E › should show error for locked out user" classname="login.spec.ts" time="5.68">
-<system-out>
-<![CDATA[15:37:58 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-15:37:59 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[15:45:48 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:45:49 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
 </testsuite>
-<testsuite name="login.spec.ts" timestamp="2025-08-25T10:37:21.445Z" hostname="Google Chrome" tests="2" failures="0" skipped="0" time="11.409" errors="0">
-<testcase name="SauceDemo Login E2E › should login successfully with standard user" classname="login.spec.ts" time="5.756">
+<testsuite name="login.spec.ts" timestamp="2025-08-25T10:45:26.964Z" hostname="Mobile Chrome" tests="2" failures="0" skipped="0" time="14.623" errors="0">
+<testcase name="SauceDemo Login E2E › should login successfully with standard user" classname="login.spec.ts" time="6.957">
 <system-out>
-<![CDATA[15:38:05 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-15:38:06 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[15:45:54 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:45:55 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
-<testcase name="SauceDemo Login E2E › should show error for locked out user" classname="login.spec.ts" time="5.653">
+<testcase name="SauceDemo Login E2E › should show error for locked out user" classname="login.spec.ts" time="7.666">
 <system-out>
-<![CDATA[15:38:05 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-15:38:06 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[15:45:55 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:45:56 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="login.spec.ts" timestamp="2025-08-25T10:45:26.964Z" hostname="Mobile Safari" tests="2" failures="0" skipped="0" time="18.461" errors="0">
+<testcase name="SauceDemo Login E2E › should login successfully with standard user" classname="login.spec.ts" time="9.51">
+<system-out>
+<![CDATA[15:46:00 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:46:02 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+]]>
+</system-out>
+</testcase>
+<testcase name="SauceDemo Login E2E › should show error for locked out user" classname="login.spec.ts" time="8.951">
+<system-out>
+<![CDATA[15:46:01 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:46:02 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="login.spec.ts" timestamp="2025-08-25T10:45:26.964Z" hostname="Microsoft Edge" tests="2" failures="0" skipped="0" time="13.368" errors="0">
+<testcase name="SauceDemo Login E2E › should login successfully with standard user" classname="login.spec.ts" time="7.073">
+<system-out>
+<![CDATA[15:46:07 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:46:08 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+]]>
+</system-out>
+</testcase>
+<testcase name="SauceDemo Login E2E › should show error for locked out user" classname="login.spec.ts" time="6.295">
+<system-out>
+<![CDATA[15:46:07 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:46:08 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="login.spec.ts" timestamp="2025-08-25T10:45:26.964Z" hostname="Google Chrome" tests="2" failures="0" skipped="0" time="10.398" errors="0">
+<testcase name="SauceDemo Login E2E › should login successfully with standard user" classname="login.spec.ts" time="5.455">
+<system-out>
+<![CDATA[15:46:15 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:46:16 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+]]>
+</system-out>
+</testcase>
+<testcase name="SauceDemo Login E2E › should show error for locked out user" classname="login.spec.ts" time="4.943">
+<system-out>
+<![CDATA[15:46:15 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:46:16 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
