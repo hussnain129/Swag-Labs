@@ -1,4 +1,5 @@
-# Playwright TestNG Framework by Abdul Rahman - Senior Test Engineer.
+# Playwright TestNG Framework by Muhammad Hussnain
+
 
 A comprehensive End-to-End test automation framework using Playwright with TestNG framework model and Page Object Model (POM) design pattern.
 Test Website used = https://www.saucedemo.com/
@@ -665,9 +666,9 @@ MIT License - see LICENSE file for details
 
 ## 📞 Contact & Links
 
-**GitHub**: https://github.com/Abdul-Rahman06
-**LinkedIn**: https://www.linkedin.com/in/abdul-rehman-b6326a176/
-**Email**: Rehmanalee05@gmail.com
+**GitHub**: https://github.com/hussnain129
+**LinkedIn**: https://www.linkedin.com/in/muhammad-hussnain-/
+**Email**: tek.hussnain@gmail.com
 
 ---
 
