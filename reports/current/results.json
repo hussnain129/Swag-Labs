@@ -166,20 +166,20 @@
   },
   "suites": [
     {
-      "title": "inventory.spec.ts",
-      "file": "inventory.spec.ts",
+      "title": "performance-user.spec.ts",
+      "file": "performance-user.spec.ts",
       "column": 0,
       "line": 0,
       "specs": [],
       "suites": [
         {
-          "title": "SauceDemo Inventory Actions",
-          "file": "inventory.spec.ts",
-          "line": 36,
+          "title": "SauceDemo Performance Glitch User",
+          "file": "performance-user.spec.ts",
+          "line": 8,
           "column": 6,
           "specs": [
             {
-              "title": "should add an item to the cart",
+              "title": "should login as performance glitch user and load inventory",
               "ok": true,
               "tags": [],
               "tests": [
@@ -194,19 +194,19 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 9435,
+                      "duration": 12563,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "17:16:55 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:56:40 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "17:16:56 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:56:41 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-25T12:16:50.722Z",
+                      "startTime": "2025-08-26T10:56:35.999Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -214,13 +214,13 @@
                   "status": "expected"
                 }
               ],
-              "id": "491382254a121adeeb47-1a41360b3f0d9bb9855f",
-              "file": "inventory.spec.ts",
-              "line": 43,
+              "id": "f09d55d7cf796d87d6b2-c58410583edeb0fa25fa",
+              "file": "performance-user.spec.ts",
+              "line": 9,
               "column": 7
             },
             {
-              "title": "should remove an item from the cart",
+              "title": "should login as performance glitch user and load inventory",
               "ok": true,
               "tags": [],
               "tests": [
@@ -228,26 +228,26 @@
                   "timeout": 60000,
                   "annotations": [],
                   "expectedStatus": "passed",
-                  "projectId": "chromium",
-                  "projectName": "chromium",
+                  "projectId": "firefox",
+                  "projectName": "firefox",
                   "results": [
                     {
                       "workerIndex": 1,
                       "parallelIndex": 1,
                       "status": "passed",
-                      "duration": 9305,
+                      "duration": 13084,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "17:16:55 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:56:41 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "17:16:56 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:56:44 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-25T12:16:50.630Z",
+                      "startTime": "2025-08-26T10:56:35.967Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -255,13 +255,13 @@
                   "status": "expected"
                 }
               ],
-              "id": "491382254a121adeeb47-7d6cb2c12f0d67ced2b4",
-              "file": "inventory.spec.ts",
-              "line": 50,
+              "id": "f09d55d7cf796d87d6b2-1c59acf4101888b749ad",
+              "file": "performance-user.spec.ts",
+              "line": 9,
               "column": 7
             },
             {
-              "title": "should add multiple items to the cart",
+              "title": "should login as performance glitch user and load inventory",
               "ok": true,
               "tags": [],
               "tests": [
@@ -269,26 +269,26 @@
                   "timeout": 60000,
                   "annotations": [],
                   "expectedStatus": "passed",
-                  "projectId": "chromium",
-                  "projectName": "chromium",
+                  "projectId": "webkit",
+                  "projectName": "webkit",
                   "results": [
                     {
                       "workerIndex": 2,
                       "parallelIndex": 2,
                       "status": "passed",
-                      "duration": 9392,
+                      "duration": 14008,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "17:16:55 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:56:38 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "17:16:57 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:56:40 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-25T12:16:50.683Z",
+                      "startTime": "2025-08-26T10:56:36.046Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -296,13 +296,13 @@
                   "status": "expected"
                 }
               ],
-              "id": "491382254a121adeeb47-44dc257cb0cb92cfd1d2",
-              "file": "inventory.spec.ts",
-              "line": 59,
+              "id": "f09d55d7cf796d87d6b2-6c9e1e6b76e27871721f",
+              "file": "performance-user.spec.ts",
+              "line": 9,
               "column": 7
             },
             {
-              "title": "should add an item to the cart",
+              "title": "should login as performance glitch user and load inventory",
               "ok": true,
               "tags": [],
               "tests": [
@@ -310,26 +310,26 @@
                   "timeout": 60000,
                   "annotations": [],
                   "expectedStatus": "passed",
-                  "projectId": "firefox",
-                  "projectName": "firefox",
+                  "projectId": "Mobile Chrome",
+                  "projectName": "Mobile Chrome",
                   "results": [
                     {
                       "workerIndex": 3,
                       "parallelIndex": 3,
                       "status": "passed",
-                      "duration": 11205,
+                      "duration": 12223,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "17:16:58 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:56:39 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "17:17:02 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:56:40 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-25T12:16:50.615Z",
+                      "startTime": "2025-08-26T10:56:35.962Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -337,13 +337,13 @@
                   "status": "expected"
                 }
               ],
-              "id": "491382254a121adeeb47-99c1276c29f15dd0259d",
-              "file": "inventory.spec.ts",
-              "line": 43,
+              "id": "f09d55d7cf796d87d6b2-d0a53677a30a1973f2e3",
+              "file": "performance-user.spec.ts",
+              "line": 9,
               "column": 7
             },
             {
-              "title": "should remove an item from the cart",
+              "title": "should login as performance glitch user and load inventory",
               "ok": true,
               "tags": [],
               "tests": [
@@ -351,67 +351,26 @@
                   "timeout": 60000,
                   "annotations": [],
                   "expectedStatus": "passed",
-                  "projectId": "firefox",
-                  "projectName": "firefox",
-                  "results": [
-                    {
-                      "workerIndex": 6,
-                      "parallelIndex": 1,
-                      "status": "passed",
-                      "duration": 10986,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "17:17:17 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "17:17:19 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T12:17:07.397Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "491382254a121adeeb47-64c16347604089d48008",
-              "file": "inventory.spec.ts",
-              "line": 50,
-              "column": 7
-            },
-            {
-              "title": "should add multiple items to the cart",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "firefox",
-                  "projectName": "firefox",
+                  "projectId": "Mobile Safari",
+                  "projectName": "Mobile Safari",
                   "results": [
                     {
                       "workerIndex": 4,
-                      "parallelIndex": 0,
+                      "parallelIndex": 3,
                       "status": "passed",
-                      "duration": 15965,
+                      "duration": 12667,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "17:17:15 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:56:54 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "17:17:19 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:56:56 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-25T12:17:07.194Z",
+                      "startTime": "2025-08-26T10:56:53.239Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -419,13 +378,13 @@
                   "status": "expected"
                 }
               ],
-              "id": "491382254a121adeeb47-d222a04ed5631cfe0d62",
-              "file": "inventory.spec.ts",
-              "line": 59,
+              "id": "f09d55d7cf796d87d6b2-75ac1c7f430a10987804",
+              "file": "performance-user.spec.ts",
+              "line": 9,
               "column": 7
             },
             {
-              "title": "should add an item to the cart",
+              "title": "should login as performance glitch user and load inventory",
               "ok": true,
               "tags": [],
               "tests": [
@@ -433,272 +392,26 @@
                   "timeout": 60000,
                   "annotations": [],
                   "expectedStatus": "passed",
-                  "projectId": "webkit",
-                  "projectName": "webkit",
+                  "projectId": "Microsoft Edge",
+                  "projectName": "Microsoft Edge",
                   "results": [
                     {
                       "workerIndex": 5,
-                      "parallelIndex": 2,
-                      "status": "passed",
-                      "duration": 8218,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "17:17:08 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "17:17:10 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T12:17:07.215Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "491382254a121adeeb47-890d958cef40d807d27f",
-              "file": "inventory.spec.ts",
-              "line": 43,
-              "column": 7
-            },
-            {
-              "title": "should remove an item from the cart",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "webkit",
-                  "projectName": "webkit",
-                  "results": [
-                    {
-                      "workerIndex": 7,
-                      "parallelIndex": 3,
-                      "status": "passed",
-                      "duration": 10360,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "17:17:12 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "17:17:14 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T12:17:10.216Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "491382254a121adeeb47-6057274551ab23310a6a",
-              "file": "inventory.spec.ts",
-              "line": 50,
-              "column": 7
-            },
-            {
-              "title": "should add multiple items to the cart",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "webkit",
-                  "projectName": "webkit",
-                  "results": [
-                    {
-                      "workerIndex": 5,
-                      "parallelIndex": 2,
-                      "status": "passed",
-                      "duration": 8120,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "17:17:17 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "17:17:18 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T12:17:15.949Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "491382254a121adeeb47-367c8e56a71759cf0ff1",
-              "file": "inventory.spec.ts",
-              "line": 59,
-              "column": 7
-            },
-            {
-              "title": "should add an item to the cart",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "Mobile Chrome",
-                  "projectName": "Mobile Chrome",
-                  "results": [
-                    {
-                      "workerIndex": 8,
-                      "parallelIndex": 3,
-                      "status": "passed",
-                      "duration": 7644,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "17:17:30 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "17:17:31 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T12:17:25.294Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "491382254a121adeeb47-21b7df64b0048cd8ca5f",
-              "file": "inventory.spec.ts",
-              "line": 43,
-              "column": 7
-            },
-            {
-              "title": "should remove an item from the cart",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "Mobile Chrome",
-                  "projectName": "Mobile Chrome",
-                  "results": [
-                    {
-                      "workerIndex": 10,
-                      "parallelIndex": 1,
-                      "status": "passed",
-                      "duration": 7580,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "17:17:35 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "17:17:36 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T12:17:29.082Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "491382254a121adeeb47-009d89604a21acbac376",
-              "file": "inventory.spec.ts",
-              "line": 50,
-              "column": 7
-            },
-            {
-              "title": "should add multiple items to the cart",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "Mobile Chrome",
-                  "projectName": "Mobile Chrome",
-                  "results": [
-                    {
-                      "workerIndex": 9,
-                      "parallelIndex": 2,
-                      "status": "passed",
-                      "duration": 7300,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "17:17:32 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "17:17:34 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T12:17:28.080Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "491382254a121adeeb47-77d3bfbef9c843e71a5b",
-              "file": "inventory.spec.ts",
-              "line": 59,
-              "column": 7
-            },
-            {
-              "title": "should add an item to the cart",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "Mobile Safari",
-                  "projectName": "Mobile Safari",
-                  "results": [
-                    {
-                      "workerIndex": 11,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 9857,
+                      "duration": 10772,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "17:17:34 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:56:56 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "17:17:36 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:56:57 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-25T12:17:31.109Z",
+                      "startTime": "2025-08-26T10:56:53.919Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -706,218 +419,13 @@
                   "status": "expected"
                 }
               ],
-              "id": "491382254a121adeeb47-9b8cf4acd53a83701fc1",
-              "file": "inventory.spec.ts",
-              "line": 43,
+              "id": "f09d55d7cf796d87d6b2-07421c6d66e108b339a6",
+              "file": "performance-user.spec.ts",
+              "line": 9,
               "column": 7
             },
             {
-              "title": "should remove an item from the cart",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "Mobile Safari",
-                  "projectName": "Mobile Safari",
-                  "results": [
-                    {
-                      "workerIndex": 12,
-                      "parallelIndex": 3,
-                      "status": "passed",
-                      "duration": 9219,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "17:17:40 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "17:17:41 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T12:17:38.631Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "491382254a121adeeb47-1d63d75f8b8c7bc1ba0f",
-              "file": "inventory.spec.ts",
-              "line": 50,
-              "column": 7
-            },
-            {
-              "title": "should add multiple items to the cart",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "Mobile Safari",
-                  "projectName": "Mobile Safari",
-                  "results": [
-                    {
-                      "workerIndex": 13,
-                      "parallelIndex": 2,
-                      "status": "passed",
-                      "duration": 8254,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "17:17:41 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "17:17:42 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T12:17:40.124Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "491382254a121adeeb47-ff5bad6d40e3ccdb57f3",
-              "file": "inventory.spec.ts",
-              "line": 59,
-              "column": 7
-            },
-            {
-              "title": "should add an item to the cart",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "Microsoft Edge",
-                  "projectName": "Microsoft Edge",
-                  "results": [
-                    {
-                      "workerIndex": 14,
-                      "parallelIndex": 1,
-                      "status": "passed",
-                      "duration": 5309,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "17:17:44 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "17:17:45 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T12:17:42.637Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "491382254a121adeeb47-29289d0dc9ba82f14dc4",
-              "file": "inventory.spec.ts",
-              "line": 43,
-              "column": 7
-            },
-            {
-              "title": "should remove an item from the cart",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "Microsoft Edge",
-                  "projectName": "Microsoft Edge",
-                  "results": [
-                    {
-                      "workerIndex": 15,
-                      "parallelIndex": 0,
-                      "status": "passed",
-                      "duration": 5355,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "17:17:46 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "17:17:47 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T12:17:44.720Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "491382254a121adeeb47-20a70f40b9083c57e726",
-              "file": "inventory.spec.ts",
-              "line": 50,
-              "column": 7
-            },
-            {
-              "title": "should add multiple items to the cart",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "Microsoft Edge",
-                  "projectName": "Microsoft Edge",
-                  "results": [
-                    {
-                      "workerIndex": 16,
-                      "parallelIndex": 3,
-                      "status": "passed",
-                      "duration": 6190,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "17:17:54 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "17:17:56 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T12:17:51.970Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "491382254a121adeeb47-0b5fb1c2fa00faf4f6e0",
-              "file": "inventory.spec.ts",
-              "line": 59,
-              "column": 7
-            },
-            {
-              "title": "should add an item to the cart",
+              "title": "should login as performance glitch user and load inventory",
               "ok": true,
               "tags": [],
               "tests": [
@@ -929,22 +437,22 @@
                   "projectName": "Google Chrome",
                   "results": [
                     {
-                      "workerIndex": 17,
+                      "workerIndex": 6,
                       "parallelIndex": 2,
                       "status": "passed",
-                      "duration": 6543,
+                      "duration": 10530,
                       "errors": [],
                       "stdout": [
                         {
-                          "text": "17:17:55 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
+                          "text": "15:56:57 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
                         },
                         {
-                          "text": "17:17:56 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
+                          "text": "15:56:58 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
                         }
                       ],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-08-25T12:17:52.140Z",
+                      "startTime": "2025-08-26T10:56:53.946Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -952,91 +460,9 @@
                   "status": "expected"
                 }
               ],
-              "id": "491382254a121adeeb47-61b9171649a27f664629",
-              "file": "inventory.spec.ts",
-              "line": 43,
-              "column": 7
-            },
-            {
-              "title": "should remove an item from the cart",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "Google Chrome",
-                  "projectName": "Google Chrome",
-                  "results": [
-                    {
-                      "workerIndex": 18,
-                      "parallelIndex": 1,
-                      "status": "passed",
-                      "duration": 5705,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "17:17:56 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "17:17:58 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T12:17:53.506Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "491382254a121adeeb47-2062ef2b87f6e1fb082f",
-              "file": "inventory.spec.ts",
-              "line": 50,
-              "column": 7
-            },
-            {
-              "title": "should add multiple items to the cart",
-              "ok": true,
-              "tags": [],
-              "tests": [
-                {
-                  "timeout": 60000,
-                  "annotations": [],
-                  "expectedStatus": "passed",
-                  "projectId": "Google Chrome",
-                  "projectName": "Google Chrome",
-                  "results": [
-                    {
-                      "workerIndex": 19,
-                      "parallelIndex": 0,
-                      "status": "passed",
-                      "duration": 4946,
-                      "errors": [],
-                      "stdout": [
-                        {
-                          "text": "17:17:59 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ \r\n"
-                        },
-                        {
-                          "text": "17:18:00 [\u001b[32minfo\u001b[39m] [CommonUtils]: STEP: Waiting for page to load \r\n"
-                        }
-                      ],
-                      "stderr": [],
-                      "retry": 0,
-                      "startTime": "2025-08-25T12:17:57.395Z",
-                      "annotations": [],
-                      "attachments": []
-                    }
-                  ],
-                  "status": "expected"
-                }
-              ],
-              "id": "491382254a121adeeb47-0667939d9d26e8e5acd0",
-              "file": "inventory.spec.ts",
-              "line": 59,
+              "id": "f09d55d7cf796d87d6b2-92b19d47fe40a34fc124",
+              "file": "performance-user.spec.ts",
+              "line": 9,
               "column": 7
             }
           ]
@@ -1046,9 +472,9 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-08-25T12:16:47.236Z",
-    "duration": 78226.70700000001,
-    "expected": 21,
+    "startTime": "2025-08-26T10:56:31.663Z",
+    "duration": 37889.668,
+    "expected": 7,
     "skipped": 0,
     "unexpected": 0,
     "flaky": 0

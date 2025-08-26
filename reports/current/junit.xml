@@ -1,161 +1,63 @@
-<testsuites id="" name="" tests="21" failures="0" skipped="0" errors="0" time="78.226707">
-<testsuite name="inventory.spec.ts" timestamp="2025-08-25T12:16:49.103Z" hostname="chromium" tests="3" failures="0" skipped="0" time="28.132" errors="0">
-<testcase name="SauceDemo Inventory Actions › should add an item to the cart" classname="inventory.spec.ts" time="9.435">
+<testsuites id="" name="" tests="7" failures="0" skipped="0" errors="0" time="37.889668">
+<testsuite name="performance-user.spec.ts" timestamp="2025-08-26T10:56:34.543Z" hostname="chromium" tests="1" failures="0" skipped="0" time="12.563" errors="0">
+<testcase name="SauceDemo Performance Glitch User › should login as performance glitch user and load inventory" classname="performance-user.spec.ts" time="12.563">
 <system-out>
-<![CDATA[17:16:55 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:16:56 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-<testcase name="SauceDemo Inventory Actions › should remove an item from the cart" classname="inventory.spec.ts" time="9.305">
-<system-out>
-<![CDATA[17:16:55 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:16:56 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-<testcase name="SauceDemo Inventory Actions › should add multiple items to the cart" classname="inventory.spec.ts" time="9.392">
-<system-out>
-<![CDATA[17:16:55 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:16:57 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[15:56:40 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:56:41 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
 </testsuite>
-<testsuite name="inventory.spec.ts" timestamp="2025-08-25T12:16:49.103Z" hostname="firefox" tests="3" failures="0" skipped="0" time="38.156" errors="0">
-<testcase name="SauceDemo Inventory Actions › should add an item to the cart" classname="inventory.spec.ts" time="11.205">
+<testsuite name="performance-user.spec.ts" timestamp="2025-08-26T10:56:34.543Z" hostname="firefox" tests="1" failures="0" skipped="0" time="13.084" errors="0">
+<testcase name="SauceDemo Performance Glitch User › should login as performance glitch user and load inventory" classname="performance-user.spec.ts" time="13.084">
 <system-out>
-<![CDATA[17:16:58 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:17:02 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-<testcase name="SauceDemo Inventory Actions › should remove an item from the cart" classname="inventory.spec.ts" time="10.986">
-<system-out>
-<![CDATA[17:17:17 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:17:19 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-<testcase name="SauceDemo Inventory Actions › should add multiple items to the cart" classname="inventory.spec.ts" time="15.965">
-<system-out>
-<![CDATA[17:17:15 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:17:19 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[15:56:41 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:56:44 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
 </testsuite>
-<testsuite name="inventory.spec.ts" timestamp="2025-08-25T12:16:49.103Z" hostname="webkit" tests="3" failures="0" skipped="0" time="26.698" errors="0">
-<testcase name="SauceDemo Inventory Actions › should add an item to the cart" classname="inventory.spec.ts" time="8.218">
+<testsuite name="performance-user.spec.ts" timestamp="2025-08-26T10:56:34.543Z" hostname="webkit" tests="1" failures="0" skipped="0" time="14.008" errors="0">
+<testcase name="SauceDemo Performance Glitch User › should login as performance glitch user and load inventory" classname="performance-user.spec.ts" time="14.008">
 <system-out>
-<![CDATA[17:17:08 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:17:10 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-<testcase name="SauceDemo Inventory Actions › should remove an item from the cart" classname="inventory.spec.ts" time="10.36">
-<system-out>
-<![CDATA[17:17:12 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:17:14 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-<testcase name="SauceDemo Inventory Actions › should add multiple items to the cart" classname="inventory.spec.ts" time="8.12">
-<system-out>
-<![CDATA[17:17:17 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:17:18 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[15:56:38 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:56:40 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
 </testsuite>
-<testsuite name="inventory.spec.ts" timestamp="2025-08-25T12:16:49.103Z" hostname="Mobile Chrome" tests="3" failures="0" skipped="0" time="22.524" errors="0">
-<testcase name="SauceDemo Inventory Actions › should add an item to the cart" classname="inventory.spec.ts" time="7.644">
+<testsuite name="performance-user.spec.ts" timestamp="2025-08-26T10:56:34.543Z" hostname="Mobile Chrome" tests="1" failures="0" skipped="0" time="12.223" errors="0">
+<testcase name="SauceDemo Performance Glitch User › should login as performance glitch user and load inventory" classname="performance-user.spec.ts" time="12.223">
 <system-out>
-<![CDATA[17:17:30 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:17:31 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-<testcase name="SauceDemo Inventory Actions › should remove an item from the cart" classname="inventory.spec.ts" time="7.58">
-<system-out>
-<![CDATA[17:17:35 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:17:36 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-<testcase name="SauceDemo Inventory Actions › should add multiple items to the cart" classname="inventory.spec.ts" time="7.3">
-<system-out>
-<![CDATA[17:17:32 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:17:34 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[15:56:39 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:56:40 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
 </testsuite>
-<testsuite name="inventory.spec.ts" timestamp="2025-08-25T12:16:49.103Z" hostname="Mobile Safari" tests="3" failures="0" skipped="0" time="27.33" errors="0">
-<testcase name="SauceDemo Inventory Actions › should add an item to the cart" classname="inventory.spec.ts" time="9.857">
+<testsuite name="performance-user.spec.ts" timestamp="2025-08-26T10:56:34.543Z" hostname="Mobile Safari" tests="1" failures="0" skipped="0" time="12.667" errors="0">
+<testcase name="SauceDemo Performance Glitch User › should login as performance glitch user and load inventory" classname="performance-user.spec.ts" time="12.667">
 <system-out>
-<![CDATA[17:17:34 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:17:36 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-<testcase name="SauceDemo Inventory Actions › should remove an item from the cart" classname="inventory.spec.ts" time="9.219">
-<system-out>
-<![CDATA[17:17:40 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:17:41 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-<testcase name="SauceDemo Inventory Actions › should add multiple items to the cart" classname="inventory.spec.ts" time="8.254">
-<system-out>
-<![CDATA[17:17:41 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:17:42 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[15:56:54 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:56:56 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
 </testsuite>
-<testsuite name="inventory.spec.ts" timestamp="2025-08-25T12:16:49.103Z" hostname="Microsoft Edge" tests="3" failures="0" skipped="0" time="16.854" errors="0">
-<testcase name="SauceDemo Inventory Actions › should add an item to the cart" classname="inventory.spec.ts" time="5.309">
+<testsuite name="performance-user.spec.ts" timestamp="2025-08-26T10:56:34.543Z" hostname="Microsoft Edge" tests="1" failures="0" skipped="0" time="10.772" errors="0">
+<testcase name="SauceDemo Performance Glitch User › should login as performance glitch user and load inventory" classname="performance-user.spec.ts" time="10.772">
 <system-out>
-<![CDATA[17:17:44 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:17:45 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-<testcase name="SauceDemo Inventory Actions › should remove an item from the cart" classname="inventory.spec.ts" time="5.355">
-<system-out>
-<![CDATA[17:17:46 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:17:47 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-<testcase name="SauceDemo Inventory Actions › should add multiple items to the cart" classname="inventory.spec.ts" time="6.19">
-<system-out>
-<![CDATA[17:17:54 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:17:56 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[15:56:56 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:56:57 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
 </testsuite>
-<testsuite name="inventory.spec.ts" timestamp="2025-08-25T12:16:49.103Z" hostname="Google Chrome" tests="3" failures="0" skipped="0" time="17.194" errors="0">
-<testcase name="SauceDemo Inventory Actions › should add an item to the cart" classname="inventory.spec.ts" time="6.543">
+<testsuite name="performance-user.spec.ts" timestamp="2025-08-26T10:56:34.543Z" hostname="Google Chrome" tests="1" failures="0" skipped="0" time="10.53" errors="0">
+<testcase name="SauceDemo Performance Glitch User › should login as performance glitch user and load inventory" classname="performance-user.spec.ts" time="10.53">
 <system-out>
-<![CDATA[17:17:55 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:17:56 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-<testcase name="SauceDemo Inventory Actions › should remove an item from the cart" classname="inventory.spec.ts" time="5.705">
-<system-out>
-<![CDATA[17:17:56 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:17:58 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
-]]>
-</system-out>
-</testcase>
-<testcase name="SauceDemo Inventory Actions › should add multiple items to the cart" classname="inventory.spec.ts" time="4.946">
-<system-out>
-<![CDATA[17:17:59 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
-17:18:00 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
+<![CDATA[15:56:57 [[32minfo[39m] [CommonUtils]: STEP: Navigating to: https://www.saucedemo.com/ 
+15:56:58 [[32minfo[39m] [CommonUtils]: STEP: Waiting for page to load 
 ]]>
 </system-out>
 </testcase>
