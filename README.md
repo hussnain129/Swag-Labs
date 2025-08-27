@@ -1,4 +1,4 @@
-# Playwright TestNG Framework by Muhammad Hussnain
+# Playwright TestNG Framework by Muhammad Hussnain.
 
 
 A comprehensive End-to-End test automation framework using Playwright with TestNG framework model and Page Object Model (POM) design pattern.
